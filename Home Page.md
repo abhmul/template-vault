@@ -1,6 +1,6 @@
 ---
 tags:
-  - GraphExclude
+  - graph-exclude
 aliases: 
 title: Home Page
 date created: Wednesday, November 22nd 2023, 2:13:10 pm
