@@ -2,12 +2,16 @@
 aliases: 
 title: <% tp.user.title(tp) %>
 tags:
-  - task
   - graph-exclude
+  - project
 ---
 # <% tp.user.title(tp) %>
+
 ## Description
+### Problem
+
+### Solutions
+
+## Goals
 
 ## Checklist
-
-## Comments
