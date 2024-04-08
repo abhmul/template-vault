@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "images",
+  "attachmentFolderPath": "attachments",
   "userIgnoreFilters": [
     "template-scripts/",
     "templates/"
